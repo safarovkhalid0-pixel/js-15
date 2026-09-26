@@ -80,6 +80,16 @@ function showC() {
 }
 showA();
 showB();
+showC();
+
+
+console.log("\nTask50");
+function showCat() {
+    console.log(" /\\_/\\")
+    console.log("( o.o )");
+    console.log(" >---< ");
+}
+showCat();
 
 console.log(`\nTask 51`);
 function greet() {
